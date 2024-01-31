@@ -1,0 +1,11 @@
+QMainWindow{
+    background-color:rgb(247,248,250);
+}
+QMainWindow::title{
+    background-color:black;
+}
+
+QLabel#labelContents{
+    background-color:rgb(209,222,236);
+
+}
